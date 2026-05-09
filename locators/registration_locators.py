@@ -1,0 +1,6 @@
+BUTTON_CREATE_ACCOUNT = "//button[text()='Создать аккаунт']"
+BUTTON_NO_ACCOUNT = "//button[text()='Нет аккаунта']"
+FIELD_CONFIRM_PASSWORD = "//input[@placeholder='Повторите пароль']"
+ERROR_CLASS_HIGHLIGHT = "input_inputError__fLUP9"
+ERROR_MESSAGE_EMAIL = "//span[text()='Ошибка']"
+ERROR_MESSAGE_PASS = "//span[text()='Пароли не совпадают']"

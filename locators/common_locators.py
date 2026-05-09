@@ -1,0 +1,6 @@
+BUTTON_LOGIN_REGISTER = "//button[text()='Вход и регистрация']"
+BUTTON_POST_AD = "//button[text()='Разместить объявление']"
+FIELD_EMAIL = "//input[@placeholder='Введите Email']"
+FIELD_PASSWORD = "//input[@placeholder='Пароль']"
+USER_AVATAR = "//button[@class='circleSmall']"
+USER_NAME = "//h3[text()='User.']"
